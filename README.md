@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Mehadi</h1>
+<p align="center">
+  <img src="Technical%20Mehadi.jpg" width="180" style="border-radius: 50%;" alt="Technical Mehadi">
+</p>
+
+<h1 align="center">I'm Technical Mehadi</h1>
 <h3 align="center">🚀 Passionate Developer | 🤖 Automation Enthusiast | 🔐 Cybersecurity Explorer</h3>
 
 <p align="center">
@@ -29,9 +33,9 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages:** Python, JavaScript
-- 🧪 **Scripting:** Bash, Linux Shell
-- 🔗 **Tools:** Git, Termux, VS Code, GitHub Actions
+- 💻 **Languages:** Python, JavaScript  
+- 🧪 **Scripting:** Bash, Linux Shell  
+- 🔗 **Tools:** Git, Termux, VS Code, GitHub Actions  
 - 🌐 **Specialization:** APIs, Web Scraping, Telegram Bots, Automation Scripts
 
 ---
