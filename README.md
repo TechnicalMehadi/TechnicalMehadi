@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Mehadi
 
-<!--
-**TechnicalMehadi/TechnicalMehadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from Bangladesh who loves coding, building automation tools, and learning about cybersecurity.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, JavaScript
+- Bash, Linux
+- APIs & Automation
+- Telegram Bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- 📧 Email: mdmehadihasanofficial@gmail.com
+- 💬 Telegram: @mdmehadihasanshuvo
